@@ -5,6 +5,7 @@ import { Navbar } from '@/components/layout/Navbar'
 import { BottomNav } from '@/components/layout/BottomNav'
 import { Footer } from '@/components/layout/Footer'
 import { StoreInitializer } from '@/components/ui/StoreInitializer'
+import { AnalyticsTracker } from '@/components/ui/AnalyticsTracker'
 
 const display = Montserrat({
   subsets: ['latin'],
@@ -97,6 +98,7 @@ export default function RootLayout({
         suppressHydrationWarning
       >
         <StoreInitializer />
+        <AnalyticsTracker />
         <div className="min-h-screen flex flex-col">
           <Navbar />
           <main className="flex-1 pb-20 md:pb-0">{children}</main>
