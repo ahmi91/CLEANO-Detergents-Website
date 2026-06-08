@@ -57,7 +57,11 @@ export function ContentClient({ sections: initialSections }: { sections: Section
       })
       if (res.ok) {
         setSections(prev => prev.map(s => s.id === form.id ? { ...form, updatedAt: new Date().toISOString() } : s))
-        setSavedIds(prev => new Set([...prev, form.id]))
+        setSavedIds(prev => {
+  const next = new Set(prev)
+  next.add(form.id)
+  return next
+})
         closeEdit()
         setTimeout(() => setSavedIds(prev => { const n = new Set(prev); n.delete(form.id); return n }), 2000)
       }
