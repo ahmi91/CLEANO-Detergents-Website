@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "locations": "Locations",
+    "contact": "Contact",
+    "orderNow": "Order Now"
+  },
+  "home": {
+    "heroTitle": "Ethiopia's Most Trusted",
+    "heroTitleHighlight": "Cleaning Brand",
+    "heroSubtitle": "Premium detergents crafted for Ethiopian homes. Powerful formulas, unbeatable prices.",
+    "shopNow": "Shop Products",
+    "findBranch": "Find Nearest Branch",
+    "featuredProducts": "Featured Products",
+    "viewAll": "View All Products",
+    "whyChoose": "Why Choose CLEANO?",
+    "stats": {
+      "products": "Products",
+      "branches": "Branches",
+      "customers": "Happy Customers",
+      "years": "Years of Trust"
+    },
+    "features": {
+      "quality": "Premium Quality",
+      "qualityDesc": "Lab-tested formulas for superior cleaning power",
+      "affordable": "Affordable Price",
+      "affordableDesc": "Best value detergents in Addis Ababa",
+      "local": "Locally Loved",
+      "localDesc": "Trusted by thousands of Ethiopian families",
+      "delivery": "Fast Delivery",
+      "deliveryDesc": "Same-day delivery across Addis Ababa"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Explore our full range of premium cleaning solutions",
+    "searchPlaceholder": "Search products...",
+    "allCategories": "All",
+    "laundry": "Laundry",
+    "multipurpose": "Multipurpose",
+    "floor": "Floor",
+    "dishes": "Dishes",
+    "baby": "Baby",
+    "priceFor": "Price for",
+    "orderNow": "Order Now",
+    "quickView": "Quick View",
+    "addToCart": "Add to Cart",
+    "noResults": "No products found",
+    "reviews": "reviews",
+    "relatedProducts": "Related Products"
+  },
+  "productDetail": {
+    "size": "Select Size",
+    "threeL": "3 Liters",
+    "fiveL": "5 Liters",
+    "orderNow": "Order Now via WhatsApp",
+    "share": "Share",
+    "description": "Description",
+    "tiktokVideos": "Watch on TikTok",
+    "tiktokDesc": "See CLEANO in action",
+    "related": "You May Also Like"
+  },
+  "locations": {
+    "title": "Find a Branch",
+    "subtitle": "Visit us at any of our Addis Ababa locations",
+    "nearMe": "Find Nearest Branch",
+    "detecting": "Detecting location...",
+    "nearestBranch": "Nearest Branch",
+    "kmAway": "km away",
+    "getDirections": "Get Directions",
+    "callNow": "Call Now",
+    "hours": "Working Hours",
+    "allBranches": "All Branches"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "birr": "Birr",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "EN",
+    "switchTo": "Switch to Amharic",
+    "back": "Back",
+    "learnMore": "Learn More"
+  }
+}

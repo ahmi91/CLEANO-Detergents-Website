@@ -1,0 +1,148 @@
+[
+  {
+    "id": "cleano-laundry-detergent",
+    "name": {
+      "en": "CLEANO Laundry Detergent",
+      "am": "የክሊኖ የልብስ ማጠቢያ ሳሙና"
+    },
+    "description": {
+      "en": "Our flagship formula engineered for Ethiopia's toughest stains. Ultra Blue penetrates deep into fabric fibers, removing grease, mud, and organic stains while leaving a fresh, long-lasting fragrance. Suitable for hand and machine washing.",
+      "am": "ለኢትዮጵያ ጠንካራ ቆሻሻ የተዘጋጀ ዋና ቀመራችን። ኡልትራ ብሉ ወደ ጨርቅ ፋይበር ውስጥ ዘልቆ ይገባል፣ ቅባት፣ ጭቃ እና ኦርጋኒክ ቆሻሻን ሲያስወግድ ትኩስ፣ ዘላቂ መዓዛ ይተዋል። ለእጅ እና ለማሽን ልብስ ማጠቢያ ተስማሚ።"
+    },
+    "image": "https://ibb.co/kVpwG7KH",
+    "category": "laundry",
+    "prices": {
+      "3L": 590,
+      "5L": 850
+    },
+    "badge": "Best Seller",
+    "rating": 4.9,
+    "reviews": 1240,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleano_official"
+    ],
+    "featured": true
+  },
+  {
+    "id": "cleano-dishwash",
+    "name": {
+      "en": "CLEANO Dishwash",
+      "am": "የክሊኖ የእቃ ማጠቢያ"
+    },
+    "description": {
+      "en": "Infused with real lemon extracts, this formula cuts through kitchen grease and bathroom grime effortlessly. The antibacterial properties protect your family while the vibrant citrus scent energizes your home.",
+      "am": "በትክክለኛ የሎሚ ሀረጎች የተቀመመ፣ ይህ ቀመር የኩሽና ቅባትን እና የመታጠቢያ ቤት ቆሻሻን በቀላሉ ያቋርጣል። ፀረ-ባክቴሪያ ባህሪያቱ ቤተሰብዎን ሲጠብቅ ብርቱ የሎሚ መዓዛ ቤትዎን ያድሳል።"
+    },
+    "image": "https://ibb.co/fGVgKsJg",
+    "category": "multipurpose",
+    "prices": {
+      "3L": 560,
+      "5L": 730
+    },
+    "badge": "New",
+    "rating": 4.7,
+    "reviews": 876,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleano_official"
+    ],
+    "featured": true
+  },
+  {
+    "id": "cleano-antiseptic-disinfectant",
+    "name": {
+      "en": "CLEANO Antiseptic Disinfectant",
+      "am": "ክሊኖ አንቲሴፕቲክ ፀረ-ተባይ"
+    },
+    "description": {
+      "en": "Specially designed for white and light-colored fabrics. White Power restores brightness and removes yellowing with an advanced optical brightener technology, keeping your whites gleaming white even after 100 washes.",
+      "am": "ለነጭ እና ለቀለል ያሉ ጨርቆች በተለይ የተዘጋጀ። ዋይት ፓወር ብሩህነትን ያድሳል እና ቢጫነትን ያስወግዳል፣ ከ100 ጊዜ ማጠብ በኋላም ቢሆን ነጮቹ ብሩህ ነጭ ሆነው ይቆያሉ።"
+    },
+    "image": "https://ibb.co/BHQYk0SC",
+    "category": "floor",
+    "prices": {
+      "3L": 630,
+      "5L": 850
+    },
+    "badge": "Premium",
+    "rating": 4.8,
+    "reviews": 654,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleanobrand/video/7001234567893",
+      "https://www.tiktok.com/@cleanobrand/video/7001234567894"
+    ],
+    "featured": false
+  },
+  {
+    "id": "cleano-floor-shine",
+    "name": {
+      "en": "CLEANO Floor Shine",
+      "am": "ክሊኖ ፍሎር ሻይን"
+    },
+    "description": {
+      "en": "Transform dull floors into gleaming surfaces with Floor Shine. Works on tiles, marble, ceramic, and concrete. The non-slip formula ensures safety while the eucalyptus scent creates a clean, fresh atmosphere.",
+      "am": "ደብዛዛ ወለሎችን ወደ አብሪ ወለሎች ይቀይሩ። ሸራ፣ እብነ በረድ፣ ሴራሚክ እና ኮንክሪት ላይ ይሰራል። የማይንሸራተት ቀመሩ ደህንነትን ሲያረጋግጥ የዩካሊፕቱስ መዓዛ ንጹህ ድባብ ፈጥሮ።"
+    },
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=600&q=80",
+    "category": "floor",
+    "prices": {
+      "3L": 95,
+      "5L": 148
+    },
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 432,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleanobrand/video/7001234567895"
+    ],
+    "featured": false
+  },
+  {
+    "id": "cleano-dish-pro",
+    "name": {
+      "en": "CLEANO Dish Pro",
+      "am": "ክሊኖ ዲሽ ፕሮ"
+    },
+    "description": {
+      "en": "Concentrated dish-washing liquid that battles the greasiest pots and pans. Just a few drops create rich lather that powers through burnt food and oil residue. Gentle on hands, tough on grease.",
+      "am": "ለዘይታማ ድስቶች እና ድስቶች የሚታገል ማጎሪያ የምግብ ዕቃ ማጠቢያ ፈሳሽ። ጥቂት ጠብታዎች ብቻ ለሸጎጦ ምግብ እና ዘይት ቅሪቶችን ሃይሉን የሚያሳልፍ ሀብታም አረፋ ፈጠሩ። ለእጆች ለስላሳ፣ ለቅባት ጠንካራ።"
+    },
+    "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=600&q=80",
+    "category": "dishes",
+    "prices": {
+      "3L": 88,
+      "5L": 135
+    },
+    "badge": "Value Pack",
+    "rating": 4.5,
+    "reviews": 987,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleanobrand/video/7001234567896",
+      "https://www.tiktok.com/@cleanobrand/video/7001234567897"
+    ],
+    "featured": false
+  },
+  {
+    "id": "cleano-baby-soft",
+    "name": {
+      "en": "CLEANO Baby Soft",
+      "am": "ክሊኖ ቤቢ ሶፍት"
+    },
+    "description": {
+      "en": "Hypoallergenic formula for delicate baby clothes and sensitive skin. Free from harsh chemicals, bleach, and artificial fragrances. Dermatologist tested and pediatrician approved for newborns and infants.",
+      "am": "ለስስ የሕጻናት ልብሶች እና ስሜታዊ ቆዳ ሃይፖአለርጂኒክ ቀመር። ከጠንካራ ኬሚካሎች፣ 漂白剂 እና ሰው ሰራሽ ሽቶዎች ነጻ። ለሓዲስ ተወላጆች እና ህጻናት በቆዳ ሐኪም የተፈተነ እና በሕጻናት ሐኪም የተፈቀደ።"
+    },
+    "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=600&q=80",
+    "category": "baby",
+    "prices": {
+      "3L": 155,
+      "5L": 240
+    },
+    "badge": "Hypoallergenic",
+    "rating": 4.9,
+    "reviews": 523,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleanobrand/video/7001234567898"
+    ],
+    "featured": true
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "home": "መነሻ",
+    "products": "ምርቶች",
+    "locations": "ቦታዎች",
+    "contact": "አግኙን",
+    "orderNow": "አሁን ይዘዙ"
+  },
+  "home": {
+    "heroTitle": "የኢትዮጵያ እጅግ ታማኝ",
+    "heroTitleHighlight": "የጽዳት ብራንድ",
+    "heroSubtitle": "ለኢትዮጵያ ቤቶች የተዘጋጀ ፕሪሚየም ዲተርጀንቶች። ሃይለኛ ቀመሮች፣ የማይሸነፍ ዋጋ።",
+    "shopNow": "ምርቶችን ይዳስሱ",
+    "findBranch": "ቅርብ ቅርንጫፍ ያግኙ",
+    "featuredProducts": "ተወዳጅ ምርቶች",
+    "viewAll": "ሁሉንም ምርቶች ይዩ",
+    "whyChoose": "ክሊኖን ለምን ይምረጡ?",
+    "stats": {
+      "products": "ምርቶች",
+      "branches": "ቅርንጫፎች",
+      "customers": "ደስተኛ ደንበኞች",
+      "years": "ዓመታት አገልግሎት"
+    },
+    "features": {
+      "quality": "ፕሪሚየም ጥራት",
+      "qualityDesc": "ከፍተኛ የጽዳት ሃይል ለማግኘት በቤተ ሙከራ የተፈተኑ ቀመሮች",
+      "affordable": "ተደራሽ ዋጋ",
+      "affordableDesc": "በአዲስ አበባ ምርጥ ዋጋ ያላቸው ዲተርጀንቶች",
+      "local": "በአካባቢ የሚወደዱ",
+      "localDesc": "በሺዎች ለሚቆጠሩ የኢትዮጵያ ቤተሰቦች ታማኝ",
+      "delivery": "ፈጣን ማድረስ",
+      "deliveryDesc": "በአዲስ አበባ ዙሪያ በዕለቱ ማድረስ"
+    }
+  },
+  "products": {
+    "title": "ምርቶቻችን",
+    "subtitle": "ሙሉ የፕሪሚየም የጽዳት መፍትሄዎቻችንን ያስሱ",
+    "searchPlaceholder": "ምርቶችን ይፈልጉ...",
+    "allCategories": "ሁሉም",
+    "laundry": "ልብስ ማጠቢያ",
+    "multipurpose": "ባለ ብዙ አላማ",
+    "floor": "ወለል ማጽጃ",
+    "dishes": "ምግብ ዕቃ ማጠቢያ",
+    "baby": "ሕጻናት",
+    "priceFor": "ዋጋ ለ",
+    "orderNow": "አሁን ይዘዙ",
+    "quickView": "ፈጣን እይታ",
+    "addToCart": "ወደ ጋሪ አስቀምጥ",
+    "noResults": "ምርቶች አልተገኙም",
+    "reviews": "ግምገማዎች",
+    "relatedProducts": "ተዛማጅ ምርቶች"
+  },
+  "productDetail": {
+    "size": "መጠን ይምረጡ",
+    "threeL": "3 ሊትር",
+    "fiveL": "5 ሊትር",
+    "orderNow": "በዋትስአፕ ይዘዙ",
+    "share": "አጋሩ",
+    "description": "መግለጫ",
+    "tiktokVideos": "በቲክቶክ ይመልከቱ",
+    "tiktokDesc": "ክሊኖ በስራ ላይ ይዩ",
+    "related": "ሌሎችም ሊወዱ ይችሉ"
+  },
+  "locations": {
+    "title": "ቅርንጫፍ ያግኙ",
+    "subtitle": "በአዲስ አበባ ከሚገኙ ቅርንጫፎቻችን ይጎብኙን",
+    "nearMe": "ቅርብ ቅርንጫፍ ያግኙ",
+    "detecting": "ቦታ እየፈለገ ነው...",
+    "nearestBranch": "ቅርብ ቅርንጫፍ",
+    "kmAway": "ኪ.ሜ ርቀት",
+    "getDirections": "አቅጣጫ ያግኙ",
+    "callNow": "አሁን ይደውሉ",
+    "hours": "የሥራ ሰዓቶች",
+    "allBranches": "ሁሉም ቅርንጫፎች"
+  },
+  "common": {
+    "loading": "እየጫነ ነው...",
+    "error": "ስህተት ተፈጥሯል",
+    "retry": "እንደገና ሞክር",
+    "birr": "ብር",
+    "darkMode": "ጨለማ ሁነታ",
+    "lightMode": "ብሩህ ሁነታ",
+    "language": "አማ",
+    "switchTo": "ወደ English ቀይር",
+    "back": "ተመለስ",
+    "learnMore": "የበለጠ ይወቁ"
+  }
+}

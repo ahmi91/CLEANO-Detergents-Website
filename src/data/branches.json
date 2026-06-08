@@ -1,0 +1,93 @@
+[
+  {
+    "id": "branch-bole",
+    "name": {
+      "en": "CLEANO Bole Branch",
+      "am": "ክሊኖ ቦሌ ቅርንጫፍ"
+    },
+    "address": {
+      "en": "Bole Road, Near Edna Mall, Addis Ababa",
+      "am": "ቦሌ መንገድ፣ ኤድና ሞል አቅራቢያ፣ አዲስ አበባ"
+    },
+    "phone": "+251 91 123 4567",
+    "hours": "Mon–Sat: 8AM–8PM | Sun: 9AM–6PM",
+    "lat": 8.9936,
+    "lng": 38.7862,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleanobrand/video/7001234567880"
+    ],
+    "isMain": true
+  },
+  {
+    "id": "branch-piassa",
+    "name": {
+      "en": "CLEANO Piassa Branch",
+      "am": "ክሊኖ ፒያሳ ቅርንጫፍ"
+    },
+    "address": {
+      "en": "Churchill Avenue, Piassa, Addis Ababa",
+      "am": "ቸርቺል አቭኑ፣ ፒያሳ፣ አዲስ አበባ"
+    },
+    "phone": "+251 91 234 5678",
+    "hours": "Mon–Sat: 8AM–7PM | Sun: 10AM–5PM",
+    "lat": 9.0307,
+    "lng": 38.7468,
+    "tiktokVideos": [],
+    "isMain": false
+  },
+  {
+    "id": "branch-merkato",
+    "name": {
+      "en": "CLEANO Merkato Hub",
+      "am": "ክሊኖ መርካቶ ሃብ"
+    },
+    "address": {
+      "en": "Merkato Market, Addis Ketema, Addis Ababa",
+      "am": "መርካቶ ገበያ፣ አዲስ ከተማ፣ አዲስ አበባ"
+    },
+    "phone": "+251 91 345 6789",
+    "hours": "Mon–Sun: 7AM–9PM",
+    "lat": 9.0345,
+    "lng": 38.7295,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleanobrand/video/7001234567881"
+    ],
+    "isMain": false
+  },
+  {
+    "id": "branch-kazanchis",
+    "name": {
+      "en": "CLEANO Kazanchis Store",
+      "am": "ክሊኖ ካዛንቺስ መደብር"
+    },
+    "address": {
+      "en": "Kazanchis Business District, Addis Ababa",
+      "am": "ካዛንቺስ ቢዝነስ ዲስትሪክት፣ አዲስ አበባ"
+    },
+    "phone": "+251 91 456 7890",
+    "hours": "Mon–Fri: 8AM–7PM | Sat–Sun: 9AM–6PM",
+    "lat": 9.0163,
+    "lng": 38.7612,
+    "tiktokVideos": [],
+    "isMain": false
+  },
+  {
+    "id": "branch-megenagna",
+    "name": {
+      "en": "CLEANO Megenagna Outlet",
+      "am": "ክሊኖ መገናኛ አውትሌት"
+    },
+    "address": {
+      "en": "Megenagna Square, Ring Road, Addis Ababa",
+      "am": "መገናኛ አደባባይ፣ ቀለበት መንገድ፣ አዲስ አበባ"
+    },
+    "phone": "+251 91 567 8901",
+    "hours": "Mon–Sat: 8AM–8PM | Sun: 9AM–5PM",
+    "lat": 9.0200,
+    "lng": 38.7915,
+    "tiktokVideos": [
+      "https://www.tiktok.com/@cleanobrand/video/7001234567882"
+    ],
+    "isMain": false
+  }
+]
